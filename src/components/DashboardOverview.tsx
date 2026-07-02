@@ -56,7 +56,7 @@ export default function DashboardOverview({ onSearchAction, onNavigateToTab, onS
       {/* Premium Hero Banner (Corporate Web Design Aesthetic) */}
       <section className="relative rounded-3xl overflow-hidden bg-slate-950 text-white border border-slate-900 shadow-xl">
         <div className="absolute inset-0 bg-[radial-gradient(#38bdf8_1px,transparent_1px)] [background-size:24px_24px] opacity-[0.08] pointer-events-none" />
-        <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-gradient-to-bl from-blue-600/20 via-cyan-600/10 to-transparent rounded-full blur-3xl pointer-events-none" />
+        <div className="absolute top-0 right-0 w-full h-full bg-gradient-to-bl from-blue-600/20 via-cyan-600/10 to-transparent rounded-full blur-3xl pointer-events-none" />
         
         {/* Real-world inspired high-quality Unsplash image background with perfect overlay */}
         <div className="absolute right-0 top-0 bottom-0 w-full lg:w-1/2 opacity-35 lg:opacity-60 pointer-events-none">
