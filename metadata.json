@@ -1,0 +1,6 @@
+{
+  "name": "Princess Trucking",
+  "description": "Premier full-service logistics and supply chain solutions provider headquartered in Roxas City, Capiz, Philippines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
